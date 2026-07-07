@@ -1,2 +1,2 @@
 # OIBSIP
-Oasis Infobyte Data Science Internship Projects
+Oasis Infobyte Data Analytics Internship Projects
